@@ -31,7 +31,7 @@ $(() => {
               username: 'Jazzy'
             }
 
-            setText(user.username[''])
+            setText(user.username)
           }
         })
       }
